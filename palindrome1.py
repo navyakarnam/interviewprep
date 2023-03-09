@@ -11,4 +11,4 @@ while(number>0):
 if temp==reverse:
     print("The no is a palindrome")
 else:
-    print("Not a palindrome")
+    print("It is not a palindrome")
